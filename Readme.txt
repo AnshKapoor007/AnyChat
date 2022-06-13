@@ -1,0 +1,1 @@
+->Install all required modules using 'npm install' command
